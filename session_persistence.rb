@@ -1,5 +1,3 @@
-
-
 class SessionPersistence
   def initialize(session)
     @session = session
